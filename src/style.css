@@ -6,4 +6,5 @@
 @font-face {
     font-family:iransans ;
     src: url(./assets/IRANSansWeb_Medium.woff2) format(woff2);
+    font-display: swap;
 }
